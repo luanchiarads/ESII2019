@@ -2,5 +2,5 @@
 
 void main (){
 	
-	printf("Arquivo 1 do Git Hub");
+	printf("Arquivo 1 do Git atualizado");
 }
